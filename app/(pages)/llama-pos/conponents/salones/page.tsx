@@ -1,3 +1,4 @@
+"use client";
 import Newsalonpop from "@/components/newsalon/Newsalonpop";
 import { Button } from "@/components/ui/button";
 import supabase from "@/lib/store/supabase";
